@@ -1,1 +1,23 @@
-El Precio del LadrilloEl precio de la vivienda en México ha presentado variaciones importantes a lo largo del tiempo y entre las diferentes entidades federativas y municipios del país. Este comportamiento puede estar relacionado con diversos factores, como la oferta de vivienda, las características de los inmuebles, la inflación, las tasas de interés, el crecimiento poblacional, los ingresos de los hogares y las condiciones económicas de cada región.Sin embargo, la información relacionada con estos factores se encuentra distribuida en diferentes fuentes y organismos públicos, lo que dificulta realizar un análisis integral del comportamiento del mercado inmobiliario.Por ello, se propone desarrollar un proyecto de procesamiento inteligente de datos que permita integrar, procesar y analizar diferentes conjuntos de datos públicos relacionados con la vivienda en México, con el propósito de identificar patrones y variables asociadas al incremento de sus precios.https://www.datos.gob.mx/dataset/oferta_vivienda
+
+
+
+El Precio del Ladrillo
+
+El precio de la vivienda en M√©xico ha presentado variaciones importantes a lo largo del tiempo y entre las diferentes entidades federativas y municipios del pa√≠s. Este comportamiento puede estar relacionado con factores como la oferta de vivienda, las caracter√≠sticas de los inmuebles, la inflaci√≥n, las tasas de inter√©s, el crecimiento poblacional, los ingresos de los hogares y las condiciones econ√≥micas de cada regi√≥n.
+
+Sin embargo, esta informaci√≥n se encuentra distribuida en diferentes fuentes y organismos p√∫blicos, lo que dificulta realizar un an√°lisis integral del mercado inmobiliario.
+
+Por ello, se propone desarrollar un proyecto de procesamiento inteligente de datos que permita integrar, procesar y analizar diferentes conjuntos de datos p√∫blicos relacionados con la vivienda en M√©xico, con el prop√≥sito de identificar patrones y variables asociadas al incremento de sus precios.
+
+Nuestro objetivo es analizar los factores principales relacionados con el precio de la vivienda en M√©xico utilizando diferentes fuentes p√∫blicas de datos y varias t√©cnicas de an√°lisis de datos y aprendizaje autom√°tico.
+
+Nuestro proyecto consiste de las siguientes etapas:
+- Recolecci√≥n de datos
+- Procesamiento de datos
+- An√°lisis de datos
+- Creaci√≥n y entrenamiento de modelo
+- Visualizaci√≥n de resultados
+
+https://www.datos.gob.mx/dataset/oferta_vivienda
+
+
