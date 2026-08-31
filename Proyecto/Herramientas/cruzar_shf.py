@@ -127,7 +127,7 @@ if __name__ == "__main__":
     shf.to_csv(SALIDA_CSV, index=False, encoding="utf-8")
 
     print("=" * 70)
-    print("ÍNDICE SHF — TABLA ENTIDAD × TRIMESTRE")
+    print("ÍNDICE SHF: TABLA ENTIDAD POR TRIMESTRE")
     print("=" * 70)
     print(f"Filas: {len(shf):,}  |  Entidades: {shf['cve_ent'].nunique()}  |  "
           f"Periodos: {shf['periodo'].nunique()} "
