@@ -9,3 +9,7 @@ Por ahora el trabajo es entender y limpiar este dataset antes de pensar en model
 Con eso hecho, exploren con graficas como se distribuye el inventario de vivienda por segmento y por entidad, como se mueve el indice_shf y su variacion anual a lo largo de 2025 por estado, y si hay relacion visible entre el avance de obra o el tipo de vivienda y el estado donde se concentra mas construccion.
 
 Por ultimo, escriban su propio FUENTE.md en Proyecto/Conjunto_de_Datos explicando de donde salio cada parte del dataset (CONAVI y SHF) y terminen de subir a Fuentes los PDF que faltan.
+
+Viernes 2 de Octubre -> Pre-procesamiento y finalización del conjunto de datos a usar
+
+Miercoles 14 de Octubre -> Realizar apartado exploratorio de su conjunto de datos
