@@ -8,7 +8,7 @@ El archivo dataset_final.csv reúne en una sola tabla datos públicos de viviend
 
 Cada fila es un estado en un trimestre. Abarca los 32 estados, del primer trimestre de 2017 al cuarto trimestre de 2024. En total son 1,024 filas y 33 columnas, sin valores vacíos y sin filas duplicadas.
 
-Lo genera el script armar_dataset.py a partir de los archivos originales de la carpeta datos_crudos. Cualquiera puede volver a correrlo y obtener el mismo resultado.
+Lo genera el script limpieza.py a partir de los archivos originales de la carpeta datos_crudos. Cualquiera puede volver a correrlo y obtener el mismo resultado.
 
 Cambio de alcance: el conjunto anterior del equipo usaba solo el inventario de vivienda de 2025. Ahora el proyecto busca predecir la variación del precio de la vivienda, y con un solo año no hay suficiente historia para entrenar un modelo. Por eso se cambió a un periodo de ocho años y se agregaron más fuentes.
 
