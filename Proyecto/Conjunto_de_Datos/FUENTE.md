@@ -21,11 +21,9 @@ Archivo: indice_shf_precios_vivienda_datos_abiertos.xlsx
 
 Contenido: Índice SHF de Precios de la Vivienda, trimestral, de 2005 a 2026, a nivel nacional, estatal y municipal. Su base es 2017 igual a 100. Se verificó que el promedio nacional de 2017 da exactamente 100 y que los valores coinciden con el reporte oficial de SHF 2015 a 2019.
 
-Consulta: transparencia.shf.gob.mx/sitepages/IndicePV.aspx
-
 2. Créditos para vivienda: SEDATU, Sistema Nacional de Información e Indicadores de Vivienda (SNIIV)
 
-Archivos: financiamientos_2016_1.csv y de financiamientos_2017.csv a financiamientos_2024.csv. Por su tamaño se suben comprimidos en formato .csv.gz, sin modificar su contenido.
+Archivos: financiamientos_2016.csv y de financiamientos_2017.csv a financiamientos_2024.csv. Por su tamaño se suben comprimidos en formato .csv.gz, sin modificar su contenido.
 
 Contenido: créditos y subsidios otorgados por mes, estado, municipio y organismo (INFONAVIT, FOVISSSTE, bancos, entre otros), con número de acciones y monto en pesos. Son 3,207,828 registros.
 
@@ -44,8 +42,6 @@ Consulta: sniiv.sedatu.gob.mx/Reporte/Datos_abiertos
 Archivos: inpc_nacional.csv, de enero 2016 a julio 2026, e inpc_2015_dof.csv, con los 12 meses de 2015.
 
 Contenido: INPC mensual nacional con base en la segunda quincena de julio de 2018 igual a 100. Los valores de 2016 en adelante se tomaron de El Contribuyente, que republica las cifras oficiales del INEGI. Los de 2015 se tomaron de la serie histórica publicada en el Diario Oficial de la Federación, y coinciden con el primer archivo en enero y diciembre de 2016.
-
-Consulta: elcontribuyente.mx/indicadores/inpc y dof.gob.mx/nota_detalle_popup.php?codigo=5538666
 
 5. Tasas de interés: Banco de México, Sistema de Información Económica (SIE)
 
