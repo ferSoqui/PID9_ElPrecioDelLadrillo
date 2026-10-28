@@ -34,6 +34,6 @@ Ahora el modelado. Aquí va punto por punto.
 
 **Entrega:** todo el modelado va en Proyecto/Modelado, con scripts que corran desde la raíz del repo, la tabla de resultados por modelo y horizonte, las figuras y un RESULTADOS.md donde expliquen qué salió y por qué. Esa tabla es la sección de resultados del artículo. Además documenten todo, con sus gráficas, en el PDF o en el documento donde estén llevando el artículo, porque esa es la evidencia que revisamos.
 
-28 Octubre -> Repo reproducible (dataset_final.csv, inpc_2015_dof.csv, limpieza.py corriendo con los nombres que hay en el repo, borrar lo del alcance viejo), panel extendido a 2025, ingenuo y media, Ridge o Lasso con split temporal a un trimestre y a un año.
+04 Noviembre -> Repo reproducible (dataset_final.csv, inpc_2015_dof.csv, limpieza.py corriendo con los nombres que hay en el repo, borrar lo del alcance viejo), panel extendido a 2025, ingenuo y media, Ridge o Lasso con split temporal a un trimestre y a un año.
 
-04 Noviembre -> Random Forest y XGBoost, origen móvil, importancia de variables, matriz completa a 60 con sus PDF, todo en Proyecto/Modelado/RESULTADOS.md y documentado con gráficas en PDF o en el documento del artículo.
+11 Noviembre -> Random Forest y XGBoost, origen móvil, importancia de variables, matriz completa a 60 con sus PDF, todo en Proyecto/Modelado/RESULTADOS.md y documentado con gráficas en PDF o en el documento del artículo.
