@@ -1,0 +1,257 @@
+﻿modelo,horizonte,estado,MAE
+Ingenuo,1 trimestre,Aguascalientes,0.726
+Ingenuo,1 trimestre,Baja California,0.496
+Ingenuo,1 trimestre,Baja California Sur,0.813
+Ingenuo,1 trimestre,Campeche,0.534
+Ingenuo,1 trimestre,Chiapas,0.472
+Ingenuo,1 trimestre,Chihuahua,0.78
+Ingenuo,1 trimestre,Ciudad de México,0.979
+Ingenuo,1 trimestre,Coahuila,0.915
+Ingenuo,1 trimestre,Colima,0.517
+Ingenuo,1 trimestre,Durango,1.021
+Ingenuo,1 trimestre,Guanajuato,0.545
+Ingenuo,1 trimestre,Guerrero,1.149
+Ingenuo,1 trimestre,Hidalgo,0.631
+Ingenuo,1 trimestre,Jalisco,0.729
+Ingenuo,1 trimestre,Michoacán,1.231
+Ingenuo,1 trimestre,Morelos,0.803
+Ingenuo,1 trimestre,México,0.533
+Ingenuo,1 trimestre,Nayarit,0.695
+Ingenuo,1 trimestre,Nuevo León,0.472
+Ingenuo,1 trimestre,Oaxaca,0.832
+Ingenuo,1 trimestre,Puebla,0.997
+Ingenuo,1 trimestre,Querétaro,1.059
+Ingenuo,1 trimestre,Quintana Roo,0.902
+Ingenuo,1 trimestre,San Luis Potosí,0.514
+Ingenuo,1 trimestre,Sinaloa,1.419
+Ingenuo,1 trimestre,Sonora,0.766
+Ingenuo,1 trimestre,Tabasco,0.758
+Ingenuo,1 trimestre,Tamaulipas,0.67
+Ingenuo,1 trimestre,Tlaxcala,3.268
+Ingenuo,1 trimestre,Veracruz,0.598
+Ingenuo,1 trimestre,Yucatán,0.47
+Ingenuo,1 trimestre,Zacatecas,1.359
+Media,1 trimestre,Aguascalientes,2.093
+Media,1 trimestre,Baja California,4.415
+Media,1 trimestre,Baja California Sur,5.744
+Media,1 trimestre,Campeche,2.015
+Media,1 trimestre,Chiapas,1.792
+Media,1 trimestre,Chihuahua,2.412
+Media,1 trimestre,Ciudad de México,2.937
+Media,1 trimestre,Coahuila,2.0
+Media,1 trimestre,Colima,2.457
+Media,1 trimestre,Durango,1.882
+Media,1 trimestre,Guanajuato,1.573
+Media,1 trimestre,Guerrero,2.164
+Media,1 trimestre,Hidalgo,0.924
+Media,1 trimestre,Jalisco,2.991
+Media,1 trimestre,Michoacán,2.226
+Media,1 trimestre,Morelos,1.926
+Media,1 trimestre,México,1.682
+Media,1 trimestre,Nayarit,4.06
+Media,1 trimestre,Nuevo León,2.645
+Media,1 trimestre,Oaxaca,1.886
+Media,1 trimestre,Puebla,1.882
+Media,1 trimestre,Querétaro,2.54
+Media,1 trimestre,Quintana Roo,5.932
+Media,1 trimestre,San Luis Potosí,1.181
+Media,1 trimestre,Sinaloa,3.137
+Media,1 trimestre,Sonora,2.84
+Media,1 trimestre,Tabasco,2.379
+Media,1 trimestre,Tamaulipas,1.629
+Media,1 trimestre,Tlaxcala,3.905
+Media,1 trimestre,Veracruz,0.812
+Media,1 trimestre,Yucatán,2.596
+Media,1 trimestre,Zacatecas,1.854
+Ridge,1 trimestre,Aguascalientes,0.751
+Ridge,1 trimestre,Baja California,0.649
+Ridge,1 trimestre,Baja California Sur,0.822
+Ridge,1 trimestre,Campeche,0.53
+Ridge,1 trimestre,Chiapas,0.58
+Ridge,1 trimestre,Chihuahua,0.741
+Ridge,1 trimestre,Ciudad de México,0.663
+Ridge,1 trimestre,Coahuila,0.567
+Ridge,1 trimestre,Colima,0.511
+Ridge,1 trimestre,Durango,0.809
+Ridge,1 trimestre,Guanajuato,0.642
+Ridge,1 trimestre,Guerrero,0.655
+Ridge,1 trimestre,Hidalgo,0.568
+Ridge,1 trimestre,Jalisco,0.813
+Ridge,1 trimestre,Michoacán,0.894
+Ridge,1 trimestre,Morelos,0.887
+Ridge,1 trimestre,México,0.653
+Ridge,1 trimestre,Nayarit,0.856
+Ridge,1 trimestre,Nuevo León,0.512
+Ridge,1 trimestre,Oaxaca,0.774
+Ridge,1 trimestre,Puebla,0.88
+Ridge,1 trimestre,Querétaro,0.703
+Ridge,1 trimestre,Quintana Roo,0.99
+Ridge,1 trimestre,San Luis Potosí,0.569
+Ridge,1 trimestre,Sinaloa,0.779
+Ridge,1 trimestre,Sonora,0.815
+Ridge,1 trimestre,Tabasco,0.587
+Ridge,1 trimestre,Tamaulipas,0.74
+Ridge,1 trimestre,Tlaxcala,2.11
+Ridge,1 trimestre,Veracruz,0.524
+Ridge,1 trimestre,Yucatán,0.738
+Ridge,1 trimestre,Zacatecas,0.92
+Lasso,1 trimestre,Aguascalientes,0.666
+Lasso,1 trimestre,Baja California,0.35
+Lasso,1 trimestre,Baja California Sur,0.518
+Lasso,1 trimestre,Campeche,0.459
+Lasso,1 trimestre,Chiapas,0.426
+Lasso,1 trimestre,Chihuahua,0.536
+Lasso,1 trimestre,Ciudad de México,0.744
+Lasso,1 trimestre,Coahuila,0.572
+Lasso,1 trimestre,Colima,0.37
+Lasso,1 trimestre,Durango,0.826
+Lasso,1 trimestre,Guanajuato,0.464
+Lasso,1 trimestre,Guerrero,0.639
+Lasso,1 trimestre,Hidalgo,0.433
+Lasso,1 trimestre,Jalisco,0.647
+Lasso,1 trimestre,Michoacán,0.696
+Lasso,1 trimestre,Morelos,0.764
+Lasso,1 trimestre,México,0.63
+Lasso,1 trimestre,Nayarit,0.532
+Lasso,1 trimestre,Nuevo León,0.413
+Lasso,1 trimestre,Oaxaca,0.563
+Lasso,1 trimestre,Puebla,0.648
+Lasso,1 trimestre,Querétaro,0.686
+Lasso,1 trimestre,Quintana Roo,0.776
+Lasso,1 trimestre,San Luis Potosí,0.452
+Lasso,1 trimestre,Sinaloa,0.785
+Lasso,1 trimestre,Sonora,0.649
+Lasso,1 trimestre,Tabasco,0.657
+Lasso,1 trimestre,Tamaulipas,0.652
+Lasso,1 trimestre,Tlaxcala,2.034
+Lasso,1 trimestre,Veracruz,0.442
+Lasso,1 trimestre,Yucatán,0.56
+Lasso,1 trimestre,Zacatecas,0.758
+Ingenuo,1 año,Aguascalientes,1.996
+Ingenuo,1 año,Baja California,1.563
+Ingenuo,1 año,Baja California Sur,2.769
+Ingenuo,1 año,Campeche,1.502
+Ingenuo,1 año,Chiapas,1.668
+Ingenuo,1 año,Chihuahua,1.994
+Ingenuo,1 año,Ciudad de México,3.076
+Ingenuo,1 año,Coahuila,3.188
+Ingenuo,1 año,Colima,1.634
+Ingenuo,1 año,Durango,2.844
+Ingenuo,1 año,Guanajuato,1.642
+Ingenuo,1 año,Guerrero,3.653
+Ingenuo,1 año,Hidalgo,1.353
+Ingenuo,1 año,Jalisco,2.235
+Ingenuo,1 año,Michoacán,3.394
+Ingenuo,1 año,Morelos,2.114
+Ingenuo,1 año,México,1.28
+Ingenuo,1 año,Nayarit,2.205
+Ingenuo,1 año,Nuevo León,1.437
+Ingenuo,1 año,Oaxaca,2.828
+Ingenuo,1 año,Puebla,2.645
+Ingenuo,1 año,Querétaro,3.535
+Ingenuo,1 año,Quintana Roo,2.92
+Ingenuo,1 año,San Luis Potosí,1.667
+Ingenuo,1 año,Sinaloa,4.557
+Ingenuo,1 año,Sonora,2.35
+Ingenuo,1 año,Tabasco,2.74
+Ingenuo,1 año,Tamaulipas,2.017
+Ingenuo,1 año,Tlaxcala,7.085
+Ingenuo,1 año,Veracruz,1.576
+Ingenuo,1 año,Yucatán,1.399
+Ingenuo,1 año,Zacatecas,3.839
+Media,1 año,Aguascalientes,1.972
+Media,1 año,Baja California,4.055
+Media,1 año,Baja California Sur,5.271
+Media,1 año,Campeche,1.877
+Media,1 año,Chiapas,1.637
+Media,1 año,Chihuahua,2.184
+Media,1 año,Ciudad de México,3.103
+Media,1 año,Coahuila,1.866
+Media,1 año,Colima,2.245
+Media,1 año,Durango,1.905
+Media,1 año,Guanajuato,1.358
+Media,1 año,Guerrero,2.197
+Media,1 año,Hidalgo,0.8
+Media,1 año,Jalisco,2.818
+Media,1 año,Michoacán,2.108
+Media,1 año,Morelos,1.915
+Media,1 año,México,1.852
+Media,1 año,Nayarit,3.768
+Media,1 año,Nuevo León,2.389
+Media,1 año,Oaxaca,1.79
+Media,1 año,Puebla,1.706
+Media,1 año,Querétaro,2.571
+Media,1 año,Quintana Roo,5.525
+Media,1 año,San Luis Potosí,1.168
+Media,1 año,Sinaloa,2.913
+Media,1 año,Sonora,2.612
+Media,1 año,Tabasco,2.226
+Media,1 año,Tamaulipas,1.721
+Media,1 año,Tlaxcala,3.886
+Media,1 año,Veracruz,0.955
+Media,1 año,Yucatán,2.348
+Media,1 año,Zacatecas,1.87
+Ridge,1 año,Aguascalientes,3.332
+Ridge,1 año,Baja California,3.996
+Ridge,1 año,Baja California Sur,4.391
+Ridge,1 año,Campeche,2.45
+Ridge,1 año,Chiapas,2.86
+Ridge,1 año,Chihuahua,3.1
+Ridge,1 año,Ciudad de México,1.415
+Ridge,1 año,Coahuila,2.316
+Ridge,1 año,Colima,3.028
+Ridge,1 año,Durango,2.411
+Ridge,1 año,Guanajuato,2.837
+Ridge,1 año,Guerrero,2.27
+Ridge,1 año,Hidalgo,2.574
+Ridge,1 año,Jalisco,3.858
+Ridge,1 año,Michoacán,3.353
+Ridge,1 año,Morelos,3.475
+Ridge,1 año,México,1.506
+Ridge,1 año,Nayarit,3.815
+Ridge,1 año,Nuevo León,3.057
+Ridge,1 año,Oaxaca,2.764
+Ridge,1 año,Puebla,3.471
+Ridge,1 año,Querétaro,2.729
+Ridge,1 año,Quintana Roo,4.481
+Ridge,1 año,San Luis Potosí,2.639
+Ridge,1 año,Sinaloa,3.06
+Ridge,1 año,Sonora,3.647
+Ridge,1 año,Tabasco,2.486
+Ridge,1 año,Tamaulipas,3.163
+Ridge,1 año,Tlaxcala,5.227
+Ridge,1 año,Veracruz,1.914
+Ridge,1 año,Yucatán,3.368
+Ridge,1 año,Zacatecas,2.609
+Lasso,1 año,Aguascalientes,1.972
+Lasso,1 año,Baja California,4.055
+Lasso,1 año,Baja California Sur,5.271
+Lasso,1 año,Campeche,1.877
+Lasso,1 año,Chiapas,1.637
+Lasso,1 año,Chihuahua,2.184
+Lasso,1 año,Ciudad de México,3.103
+Lasso,1 año,Coahuila,1.866
+Lasso,1 año,Colima,2.245
+Lasso,1 año,Durango,1.905
+Lasso,1 año,Guanajuato,1.358
+Lasso,1 año,Guerrero,2.197
+Lasso,1 año,Hidalgo,0.8
+Lasso,1 año,Jalisco,2.818
+Lasso,1 año,Michoacán,2.108
+Lasso,1 año,Morelos,1.915
+Lasso,1 año,México,1.852
+Lasso,1 año,Nayarit,3.768
+Lasso,1 año,Nuevo León,2.389
+Lasso,1 año,Oaxaca,1.79
+Lasso,1 año,Puebla,1.706
+Lasso,1 año,Querétaro,2.571
+Lasso,1 año,Quintana Roo,5.525
+Lasso,1 año,San Luis Potosí,1.168
+Lasso,1 año,Sinaloa,2.913
+Lasso,1 año,Sonora,2.612
+Lasso,1 año,Tabasco,2.226
+Lasso,1 año,Tamaulipas,1.721
+Lasso,1 año,Tlaxcala,3.886
+Lasso,1 año,Veracruz,0.955
+Lasso,1 año,Yucatán,2.348
+Lasso,1 año,Zacatecas,1.87

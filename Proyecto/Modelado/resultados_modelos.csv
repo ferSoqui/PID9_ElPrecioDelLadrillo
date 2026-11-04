@@ -1,0 +1,9 @@
+modelo,horizonte,MAE,RMSE,R2
+Ingenuo,1 trimestre,0.864,1.18,0.794
+Media,1 trimestre,2.516,3.124,-0.442
+Ridge,1 trimestre,0.757,1.038,0.841
+Lasso,1 trimestre,0.636,0.886,0.884
+Ingenuo,1 año,2.522,3.286,-0.574
+Media,1 año,2.394,2.998,-0.31
+Ridge,1 año,3.05,3.667,-0.96
+Lasso,1 año,2.394,2.998,-0.31
