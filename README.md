@@ -37,3 +37,59 @@ Ahora el modelado. Aquí va punto por punto.
 04 Noviembre -> Repo reproducible (dataset_final.csv, inpc_2015_dof.csv, limpieza.py corriendo con los nombres que hay en el repo, borrar lo del alcance viejo), panel extendido a 2025, ingenuo y media, Ridge o Lasso con split temporal a un trimestre y a un año.
 
 11 Noviembre -> Random Forest y XGBoost, origen móvil, importancia de variables, matriz completa a 60 con sus PDF, todo en Proyecto/Modelado/RESULTADOS.md y documentado con gráficas en PDF o en el documento del artículo.
+
+## 6 de noviembre
+
+Revise lo del 4 de noviembre y esta bien hecho: dataset_final.csv extendido a 2025T4 sin vacios, el alcance viejo borrado, modelado.py corriendo desde la raiz con ingenuo, media, Ridge y Lasso a un trimestre y a un año, split por tiempo, alpha elegido dentro del entrenamiento, y RESULTADOS.md con las conclusiones correctas. Reproduje el script y la tabla sale igual. Lasso a un trimestre con MAE de 0.64 contra 0.86 del ingenuo, y a un año nada le gana a la media, es justo lo que habia que esperar. Agregue inpc_2015_dof.csv a Conjunto_de_Datos para que limpieza.py corra completo; con el, regenera exactamente su dataset_final.csv.
+
+Probe sobre su mismo script si se puede bajar mas y si, a un trimestre: agregarle a Lasso el crecimiento trimestral de uno, dos y tres trimestres antes baja el MAE de 0.64 a 0.58, y gana en los cuatro años de prueba y en 30 de 32 estados. Random Forest y boosting no le ganan a Lasso a un trimestre. A un año ningun modelo le gana claramente a la media; el que mas se acerca es Random Forest prediciendo el cambio de la variacion en vez de la variacion misma, y el resultado depende de con que año se pruebe, por eso el origen movil es obligatorio. No hay articulos que modelen el indice SHF por estado; los comparables (Kohlscheen 2025 con paises, Gupta 2020 con los estados de EUA, Mattera y Franses 2025) usan 40 años o mas de datos, y eso explica lo de un año. Va en la discusion.
+
+**Objetivo:** el mismo del 19 de octubre. Variacion anual del indice SHF por estado a un trimestre y a un año, y que factores la mueven.
+
+**Variable objetivo:** var_anual del siguiente trimestre y del mismo trimestre del año siguiente, sin cambios.
+
+**Variables de entrada:** las que ya tienen mas tres rezagos del crecimiento trimestral: crec_trim de uno, dos y tres trimestres antes, calculados del mismo indice SHF con shift por estado. Para los arboles, ademas, una version del objetivo como cambio: y menos var_anual de hoy; la prediccion final se obtiene sumandole var_anual de hoy.
+
+**Modelos:** ingenuo, media, Ridge y Lasso que ya tienen, mas Random Forest y XGBoost o HistGradientBoosting, cada uno sobre la variacion y sobre el cambio.
+
+**Corridas que faltan:**
+1. Lasso y Ridge con los tres rezagos del crecimiento trimestral, a un trimestre y a un año. Reporten la tabla con y sin rezagos.
+2. Random Forest y XGBoost o HistGradientBoosting sobre la variacion y sobre el cambio, a un trimestre y a un año, con la misma particion.
+3. Origen movil para todos los modelos: entrenar con objetivos hasta 2020, hasta 2021 y hasta 2022, probar con el año siguiente, y reportar el MAE de cada corte y el promedio.
+4. Importancia por permutacion del mejor modelo de cada horizonte, sobre el periodo de prueba.
+
+**Validacion y metricas:** las mismas. Particion por tiempo, MAE, RMSE y R2 por horizonte, MAE por estado, y la tabla de origen movil.
+
+**Lo que deben esperar:** a un trimestre Lasso con rezagos cerca de 0.58 de MAE en su particion y cerca de 0.69 en el promedio del origen movil, contra 0.77 del Lasso actual y 0.98 del ingenuo; Lasso conserva los rezagos uno y dos y deja los demas en cero. Los arboles quedan entre 0.69 y 0.82. A un año la media queda cerca de 2.4, Random Forest sobre el cambio cerca de 2.4 en su particion y cerca de 1.9 en el origen movil, y los lineales peor que la media; se reporta asi. En importancia, a un trimestre solo pesan var_anual y crec_trim; a un año asoman tasa de fondeo, oferta y credito promedio con pesos chicos. Agreguen las tablas y figuras nuevas a RESULTADOS.md.
+
+**Pendientes del repo:** matriz a 60 con sus PDF en Fuentes, y el PDF de resultados generado desde RESULTADOS.md con sus figuras.
+
+**Articulo de investigacion:** `Plantilla_Articulo_Propuesta` tal cual, sin cambiar secciones. RESULTADOS.md ya es la seccion de resultados; el resto se arma asi:
+
+| Seccion | Que va |
+|---|---|
+| Titulo | Ejemplo: "Pronostico de la variacion del precio de la vivienda por estado en Mexico con el indice SHF: persistencia, credito y oferta a uno y cuatro trimestres" |
+| Resumen | Panel de 32 estados por 36 trimestres con seis fuentes de gobierno, seis modelos, MAE 0.58 contra 0.86 del ingenuo a un trimestre, a un año nada le gana a la media |
+| I. Introduccion | Tres contribuciones: el panel estatal armado de fuentes publicas; medir cuanto aportan credito, oferta y tasas sobre la persistencia del precio; evaluar con origen movil |
+| II. Trabajos relacionados | Los de la matriz agrupados en hedonicos de vivienda individual y en pronostico regional (Mattera y Franses 2025, Gupta 2020, Kohlscheen 2025). Cierre: ninguno pronostica el indice SHF por estado |
+| III. Metodologia | Fuentes y FUENTE.md, construccion del panel, variables por bloque, el factor nacional, modelos, metricas |
+| IV. Diseno experimental | Particion por tiempo, eleccion de alpha dentro del entrenamiento, origen movil, por que nunca split aleatorio |
+| V. Resultados | Tablas de RESULTADOS.md con las corridas 1 a 4, MAE por estado, importancia |
+| VI. Discusion | Por que a un trimestre es persistencia y a un año no alcanza la informacion, comparacion con los trabajos de 40 años de datos, los dos choques, limitaciones |
+| VII. Conclusiones | Con los numeros. Futuro: mas años, datos municipales, variables de empleo |
+| Referencias | IEEE; cada fuente de datos con URL y fecha de descarga de FUENTE.md |
+
+**Articulo de revision:** `Plantilla_Articulo_Revision` tal cual. La matriz si cambia: agreguen estas columnas para las 60 filas: año; tipo de fuente; pais o region; escala (vivienda individual, ciudad, estado o region, pais); tipo de dato (corte transversal, serie de tiempo, panel); familia de modelo (hedonico o regresion, arboles o boosting, red neuronal, espacial, hibrido); pronostica en el tiempo (si o no); metrica principal y valor. Registren el metodo de busqueda.
+
+| Seccion | Que va |
+|---|---|
+| I. Introduccion | PR1: que modelos se usan para explicar y pronosticar el precio de la vivienda entre 2017 y 2026 y que resultado reportan. PR2: que variables usan (de la vivienda, del entorno, macroeconomicas). PR3: cuantos pronostican en el tiempo y como validan |
+| II. Metodo | Bases consultadas, cadena de busqueda, fecha, criterios de inclusion y exclusion, numeros que cuadren con las 60 filas |
+| III. Panorama | Figura por año y familia de modelo; tabla por escala y tipo de dato. Sale de las columnas nuevas |
+| IV. Problematicas | Datos faltantes, heterogeneidad espacial, pocos años de datos, validacion aleatoria en datos con tiempo, variables macro que no aportan |
+| V. Soluciones | Por familia: hedonicos, espaciales, arboles y boosting, redes, factores y paneles |
+| VI. Analisis | Que se repite (el propio precio domina, los hedonicos explican pero no pronostican) y cuando dos trabajos no son comparables |
+| VII. Vacios | Casi nadie pronostica por estado en Mexico; pocos validan por tiempo; pocos comparan contra el ingenuo. De aqui sale el articulo de investigacion |
+| VIII. Conclusiones | Responder PR1 a PR3 y limitaciones |
+
+20 Noviembre -> todo junto: corridas 1 a 4 en RESULTADOS.md y el PDF, matriz a 60 con las columnas nuevas y los dos articulos completos en sus plantillas. Las corridas son de pocos dias; dediquen el tiempo a los articulos.
