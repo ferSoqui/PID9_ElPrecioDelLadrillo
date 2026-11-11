@@ -23,6 +23,36 @@ Lasso,1 trimestre,0.1,oferta_metodologia_2019,0.0
 Lasso,1 trimestre,0.1,tasa_fondeo,-0.0038
 Lasso,1 trimestre,0.1,tasa_cetes91,-0.0
 Lasso,1 trimestre,0.1,inflacion_anual_pct,0.0738
+Ridge + rezagos,1 trimestre,100.0,var_anual,0.5633
+Ridge + rezagos,1 trimestre,100.0,var_anual_lag1,0.1998
+Ridge + rezagos,1 trimestre,100.0,var_anual_lag4,-0.0233
+Ridge + rezagos,1 trimestre,100.0,crec_trim,0.8503
+Ridge + rezagos,1 trimestre,100.0,factor_nacional,-0.0914
+Ridge + rezagos,1 trimestre,100.0,crec_trim_lag1,0.3548
+Ridge + rezagos,1 trimestre,100.0,crec_trim_lag2,0.2816
+Ridge + rezagos,1 trimestre,100.0,crec_trim_lag3,-0.0117
+Ridge + rezagos,1 trimestre,100.0,creditos_por_mil,0.0919
+Ridge + rezagos,1 trimestre,100.0,credito_promedio_real,0.0184
+Ridge + rezagos,1 trimestre,100.0,oferta_por_mil,-0.0042
+Ridge + rezagos,1 trimestre,100.0,oferta_metodologia_2019,0.0027
+Ridge + rezagos,1 trimestre,100.0,tasa_fondeo,-0.0771
+Ridge + rezagos,1 trimestre,100.0,tasa_cetes91,-0.0028
+Ridge + rezagos,1 trimestre,100.0,inflacion_anual_pct,0.1788
+Lasso + rezagos,1 trimestre,0.1,var_anual,0.9666
+Lasso + rezagos,1 trimestre,0.1,var_anual_lag1,0.0
+Lasso + rezagos,1 trimestre,0.1,var_anual_lag4,-0.0
+Lasso + rezagos,1 trimestre,0.1,crec_trim,0.7627
+Lasso + rezagos,1 trimestre,0.1,factor_nacional,-0.0
+Lasso + rezagos,1 trimestre,0.1,crec_trim_lag1,0.2364
+Lasso + rezagos,1 trimestre,0.1,crec_trim_lag2,0.1125
+Lasso + rezagos,1 trimestre,0.1,crec_trim_lag3,-0.0
+Lasso + rezagos,1 trimestre,0.1,creditos_por_mil,0.0
+Lasso + rezagos,1 trimestre,0.1,credito_promedio_real,0.0
+Lasso + rezagos,1 trimestre,0.1,oferta_por_mil,0.0
+Lasso + rezagos,1 trimestre,0.1,oferta_metodologia_2019,0.0
+Lasso + rezagos,1 trimestre,0.1,tasa_fondeo,-0.0023
+Lasso + rezagos,1 trimestre,0.1,tasa_cetes91,-0.0
+Lasso + rezagos,1 trimestre,0.1,inflacion_anual_pct,0.0575
 Ridge,1 año,300.0,var_anual,0.3664
 Ridge,1 año,300.0,var_anual_lag1,0.3373
 Ridge,1 año,300.0,var_anual_lag4,-0.0003
@@ -47,3 +77,33 @@ Lasso,1 año,1.0,oferta_metodologia_2019,0.0
 Lasso,1 año,1.0,tasa_fondeo,0.0
 Lasso,1 año,1.0,tasa_cetes91,0.0
 Lasso,1 año,1.0,inflacion_anual_pct,0.0
+Ridge + rezagos,1 año,300.0,var_anual,0.2461
+Ridge + rezagos,1 año,300.0,var_anual_lag1,0.2091
+Ridge + rezagos,1 año,300.0,var_anual_lag4,-0.0196
+Ridge + rezagos,1 año,300.0,crec_trim,0.2059
+Ridge + rezagos,1 año,300.0,factor_nacional,-0.3411
+Ridge + rezagos,1 año,300.0,crec_trim_lag1,0.0643
+Ridge + rezagos,1 año,300.0,crec_trim_lag2,0.1939
+Ridge + rezagos,1 año,300.0,crec_trim_lag3,0.1772
+Ridge + rezagos,1 año,300.0,creditos_por_mil,0.0976
+Ridge + rezagos,1 año,300.0,credito_promedio_real,-0.0342
+Ridge + rezagos,1 año,300.0,oferta_por_mil,0.1402
+Ridge + rezagos,1 año,300.0,oferta_metodologia_2019,-0.1458
+Ridge + rezagos,1 año,300.0,tasa_fondeo,-0.3724
+Ridge + rezagos,1 año,300.0,tasa_cetes91,-0.347
+Ridge + rezagos,1 año,300.0,inflacion_anual_pct,0.3147
+Lasso + rezagos,1 año,1.0,var_anual,0.0
+Lasso + rezagos,1 año,1.0,var_anual_lag1,0.0
+Lasso + rezagos,1 año,1.0,var_anual_lag4,0.0
+Lasso + rezagos,1 año,1.0,crec_trim,0.0
+Lasso + rezagos,1 año,1.0,factor_nacional,0.0
+Lasso + rezagos,1 año,1.0,crec_trim_lag1,0.0
+Lasso + rezagos,1 año,1.0,crec_trim_lag2,0.0
+Lasso + rezagos,1 año,1.0,crec_trim_lag3,0.0
+Lasso + rezagos,1 año,1.0,creditos_por_mil,0.0
+Lasso + rezagos,1 año,1.0,credito_promedio_real,0.0
+Lasso + rezagos,1 año,1.0,oferta_por_mil,0.0
+Lasso + rezagos,1 año,1.0,oferta_metodologia_2019,0.0
+Lasso + rezagos,1 año,1.0,tasa_fondeo,0.0
+Lasso + rezagos,1 año,1.0,tasa_cetes91,0.0
+Lasso + rezagos,1 año,1.0,inflacion_anual_pct,0.0

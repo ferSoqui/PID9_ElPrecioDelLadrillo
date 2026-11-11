@@ -127,6 +127,198 @@ Lasso,1 trimestre,Tlaxcala,2.034
 Lasso,1 trimestre,Veracruz,0.442
 Lasso,1 trimestre,Yucatán,0.56
 Lasso,1 trimestre,Zacatecas,0.758
+Ridge + rezagos,1 trimestre,Aguascalientes,0.643
+Ridge + rezagos,1 trimestre,Baja California,0.617
+Ridge + rezagos,1 trimestre,Baja California Sur,0.729
+Ridge + rezagos,1 trimestre,Campeche,0.458
+Ridge + rezagos,1 trimestre,Chiapas,0.57
+Ridge + rezagos,1 trimestre,Chihuahua,0.675
+Ridge + rezagos,1 trimestre,Ciudad de México,0.539
+Ridge + rezagos,1 trimestre,Coahuila,0.525
+Ridge + rezagos,1 trimestre,Colima,0.515
+Ridge + rezagos,1 trimestre,Durango,0.755
+Ridge + rezagos,1 trimestre,Guanajuato,0.614
+Ridge + rezagos,1 trimestre,Guerrero,0.554
+Ridge + rezagos,1 trimestre,Hidalgo,0.523
+Ridge + rezagos,1 trimestre,Jalisco,0.721
+Ridge + rezagos,1 trimestre,Michoacán,0.834
+Ridge + rezagos,1 trimestre,Morelos,0.772
+Ridge + rezagos,1 trimestre,México,0.423
+Ridge + rezagos,1 trimestre,Nayarit,0.705
+Ridge + rezagos,1 trimestre,Nuevo León,0.519
+Ridge + rezagos,1 trimestre,Oaxaca,0.654
+Ridge + rezagos,1 trimestre,Puebla,0.679
+Ridge + rezagos,1 trimestre,Querétaro,0.665
+Ridge + rezagos,1 trimestre,Quintana Roo,0.864
+Ridge + rezagos,1 trimestre,San Luis Potosí,0.567
+Ridge + rezagos,1 trimestre,Sinaloa,0.681
+Ridge + rezagos,1 trimestre,Sonora,0.799
+Ridge + rezagos,1 trimestre,Tabasco,0.575
+Ridge + rezagos,1 trimestre,Tamaulipas,0.702
+Ridge + rezagos,1 trimestre,Tlaxcala,1.792
+Ridge + rezagos,1 trimestre,Veracruz,0.455
+Ridge + rezagos,1 trimestre,Yucatán,0.66
+Ridge + rezagos,1 trimestre,Zacatecas,0.768
+Lasso + rezagos,1 trimestre,Aguascalientes,0.595
+Lasso + rezagos,1 trimestre,Baja California,0.371
+Lasso + rezagos,1 trimestre,Baja California Sur,0.549
+Lasso + rezagos,1 trimestre,Campeche,0.43
+Lasso + rezagos,1 trimestre,Chiapas,0.379
+Lasso + rezagos,1 trimestre,Chihuahua,0.529
+Lasso + rezagos,1 trimestre,Ciudad de México,0.695
+Lasso + rezagos,1 trimestre,Coahuila,0.561
+Lasso + rezagos,1 trimestre,Colima,0.348
+Lasso + rezagos,1 trimestre,Durango,0.75
+Lasso + rezagos,1 trimestre,Guanajuato,0.417
+Lasso + rezagos,1 trimestre,Guerrero,0.58
+Lasso + rezagos,1 trimestre,Hidalgo,0.416
+Lasso + rezagos,1 trimestre,Jalisco,0.576
+Lasso + rezagos,1 trimestre,Michoacán,0.621
+Lasso + rezagos,1 trimestre,Morelos,0.643
+Lasso + rezagos,1 trimestre,México,0.579
+Lasso + rezagos,1 trimestre,Nayarit,0.509
+Lasso + rezagos,1 trimestre,Nuevo León,0.398
+Lasso + rezagos,1 trimestre,Oaxaca,0.514
+Lasso + rezagos,1 trimestre,Puebla,0.517
+Lasso + rezagos,1 trimestre,Querétaro,0.638
+Lasso + rezagos,1 trimestre,Quintana Roo,0.733
+Lasso + rezagos,1 trimestre,San Luis Potosí,0.384
+Lasso + rezagos,1 trimestre,Sinaloa,0.685
+Lasso + rezagos,1 trimestre,Sonora,0.633
+Lasso + rezagos,1 trimestre,Tabasco,0.621
+Lasso + rezagos,1 trimestre,Tamaulipas,0.624
+Lasso + rezagos,1 trimestre,Tlaxcala,1.775
+Lasso + rezagos,1 trimestre,Veracruz,0.399
+Lasso + rezagos,1 trimestre,Yucatán,0.493
+Lasso + rezagos,1 trimestre,Zacatecas,0.687
+Random Forest,1 trimestre,Aguascalientes,0.612
+Random Forest,1 trimestre,Baja California,0.487
+Random Forest,1 trimestre,Baja California Sur,1.191
+Random Forest,1 trimestre,Campeche,0.422
+Random Forest,1 trimestre,Chiapas,0.406
+Random Forest,1 trimestre,Chihuahua,0.578
+Random Forest,1 trimestre,Ciudad de México,0.762
+Random Forest,1 trimestre,Coahuila,0.607
+Random Forest,1 trimestre,Colima,0.349
+Random Forest,1 trimestre,Durango,0.786
+Random Forest,1 trimestre,Guanajuato,0.383
+Random Forest,1 trimestre,Guerrero,0.623
+Random Forest,1 trimestre,Hidalgo,0.472
+Random Forest,1 trimestre,Jalisco,0.606
+Random Forest,1 trimestre,Michoacán,0.814
+Random Forest,1 trimestre,Morelos,0.609
+Random Forest,1 trimestre,México,0.526
+Random Forest,1 trimestre,Nayarit,0.563
+Random Forest,1 trimestre,Nuevo León,0.416
+Random Forest,1 trimestre,Oaxaca,0.667
+Random Forest,1 trimestre,Puebla,0.524
+Random Forest,1 trimestre,Querétaro,0.699
+Random Forest,1 trimestre,Quintana Roo,1.294
+Random Forest,1 trimestre,San Luis Potosí,0.31
+Random Forest,1 trimestre,Sinaloa,1.0
+Random Forest,1 trimestre,Sonora,0.751
+Random Forest,1 trimestre,Tabasco,0.665
+Random Forest,1 trimestre,Tamaulipas,0.627
+Random Forest,1 trimestre,Tlaxcala,2.037
+Random Forest,1 trimestre,Veracruz,0.422
+Random Forest,1 trimestre,Yucatán,0.439
+Random Forest,1 trimestre,Zacatecas,0.785
+Random Forest (cambio),1 trimestre,Aguascalientes,0.559
+Random Forest (cambio),1 trimestre,Baja California,0.431
+Random Forest (cambio),1 trimestre,Baja California Sur,0.741
+Random Forest (cambio),1 trimestre,Campeche,0.403
+Random Forest (cambio),1 trimestre,Chiapas,0.354
+Random Forest (cambio),1 trimestre,Chihuahua,0.574
+Random Forest (cambio),1 trimestre,Ciudad de México,0.708
+Random Forest (cambio),1 trimestre,Coahuila,0.651
+Random Forest (cambio),1 trimestre,Colima,0.394
+Random Forest (cambio),1 trimestre,Durango,0.675
+Random Forest (cambio),1 trimestre,Guanajuato,0.399
+Random Forest (cambio),1 trimestre,Guerrero,0.707
+Random Forest (cambio),1 trimestre,Hidalgo,0.47
+Random Forest (cambio),1 trimestre,Jalisco,0.559
+Random Forest (cambio),1 trimestre,Michoacán,0.928
+Random Forest (cambio),1 trimestre,Morelos,0.556
+Random Forest (cambio),1 trimestre,México,0.393
+Random Forest (cambio),1 trimestre,Nayarit,0.681
+Random Forest (cambio),1 trimestre,Nuevo León,0.407
+Random Forest (cambio),1 trimestre,Oaxaca,0.676
+Random Forest (cambio),1 trimestre,Puebla,0.713
+Random Forest (cambio),1 trimestre,Querétaro,0.78
+Random Forest (cambio),1 trimestre,Quintana Roo,1.009
+Random Forest (cambio),1 trimestre,San Luis Potosí,0.316
+Random Forest (cambio),1 trimestre,Sinaloa,1.036
+Random Forest (cambio),1 trimestre,Sonora,0.626
+Random Forest (cambio),1 trimestre,Tabasco,0.607
+Random Forest (cambio),1 trimestre,Tamaulipas,0.625
+Random Forest (cambio),1 trimestre,Tlaxcala,2.557
+Random Forest (cambio),1 trimestre,Veracruz,0.433
+Random Forest (cambio),1 trimestre,Yucatán,0.546
+Random Forest (cambio),1 trimestre,Zacatecas,0.758
+HistGB,1 trimestre,Aguascalientes,0.623
+HistGB,1 trimestre,Baja California,0.629
+HistGB,1 trimestre,Baja California Sur,1.187
+HistGB,1 trimestre,Campeche,0.482
+HistGB,1 trimestre,Chiapas,0.518
+HistGB,1 trimestre,Chihuahua,0.818
+HistGB,1 trimestre,Ciudad de México,1.264
+HistGB,1 trimestre,Coahuila,0.547
+HistGB,1 trimestre,Colima,0.48
+HistGB,1 trimestre,Durango,0.824
+HistGB,1 trimestre,Guanajuato,0.535
+HistGB,1 trimestre,Guerrero,0.603
+HistGB,1 trimestre,Hidalgo,0.555
+HistGB,1 trimestre,Jalisco,0.834
+HistGB,1 trimestre,Michoacán,0.805
+HistGB,1 trimestre,Morelos,0.929
+HistGB,1 trimestre,México,0.538
+HistGB,1 trimestre,Nayarit,0.76
+HistGB,1 trimestre,Nuevo León,0.571
+HistGB,1 trimestre,Oaxaca,0.855
+HistGB,1 trimestre,Puebla,0.633
+HistGB,1 trimestre,Querétaro,0.718
+HistGB,1 trimestre,Quintana Roo,0.891
+HistGB,1 trimestre,San Luis Potosí,0.511
+HistGB,1 trimestre,Sinaloa,0.763
+HistGB,1 trimestre,Sonora,0.821
+HistGB,1 trimestre,Tabasco,0.676
+HistGB,1 trimestre,Tamaulipas,0.875
+HistGB,1 trimestre,Tlaxcala,1.739
+HistGB,1 trimestre,Veracruz,0.53
+HistGB,1 trimestre,Yucatán,0.708
+HistGB,1 trimestre,Zacatecas,0.748
+HistGB (cambio),1 trimestre,Aguascalientes,0.667
+HistGB (cambio),1 trimestre,Baja California,0.517
+HistGB (cambio),1 trimestre,Baja California Sur,0.702
+HistGB (cambio),1 trimestre,Campeche,0.687
+HistGB (cambio),1 trimestre,Chiapas,0.744
+HistGB (cambio),1 trimestre,Chihuahua,0.837
+HistGB (cambio),1 trimestre,Ciudad de México,0.71
+HistGB (cambio),1 trimestre,Coahuila,0.608
+HistGB (cambio),1 trimestre,Colima,0.601
+HistGB (cambio),1 trimestre,Durango,0.731
+HistGB (cambio),1 trimestre,Guanajuato,0.715
+HistGB (cambio),1 trimestre,Guerrero,0.718
+HistGB (cambio),1 trimestre,Hidalgo,0.637
+HistGB (cambio),1 trimestre,Jalisco,0.819
+HistGB (cambio),1 trimestre,Michoacán,0.842
+HistGB (cambio),1 trimestre,Morelos,0.847
+HistGB (cambio),1 trimestre,México,0.611
+HistGB (cambio),1 trimestre,Nayarit,0.699
+HistGB (cambio),1 trimestre,Nuevo León,0.668
+HistGB (cambio),1 trimestre,Oaxaca,0.752
+HistGB (cambio),1 trimestre,Puebla,0.735
+HistGB (cambio),1 trimestre,Querétaro,0.721
+HistGB (cambio),1 trimestre,Quintana Roo,1.064
+HistGB (cambio),1 trimestre,San Luis Potosí,0.77
+HistGB (cambio),1 trimestre,Sinaloa,0.721
+HistGB (cambio),1 trimestre,Sonora,0.812
+HistGB (cambio),1 trimestre,Tabasco,0.732
+HistGB (cambio),1 trimestre,Tamaulipas,0.837
+HistGB (cambio),1 trimestre,Tlaxcala,2.012
+HistGB (cambio),1 trimestre,Veracruz,0.604
+HistGB (cambio),1 trimestre,Yucatán,0.767
+HistGB (cambio),1 trimestre,Zacatecas,0.584
 Ingenuo,1 año,Aguascalientes,1.996
 Ingenuo,1 año,Baja California,1.563
 Ingenuo,1 año,Baja California Sur,2.769
@@ -255,3 +447,195 @@ Lasso,1 año,Tlaxcala,3.886
 Lasso,1 año,Veracruz,0.955
 Lasso,1 año,Yucatán,2.348
 Lasso,1 año,Zacatecas,1.87
+Ridge + rezagos,1 año,Aguascalientes,3.459
+Ridge + rezagos,1 año,Baja California,4.024
+Ridge + rezagos,1 año,Baja California Sur,4.376
+Ridge + rezagos,1 año,Campeche,2.507
+Ridge + rezagos,1 año,Chiapas,2.953
+Ridge + rezagos,1 año,Chihuahua,3.188
+Ridge + rezagos,1 año,Ciudad de México,1.531
+Ridge + rezagos,1 año,Coahuila,2.442
+Ridge + rezagos,1 año,Colima,3.102
+Ridge + rezagos,1 año,Durango,2.54
+Ridge + rezagos,1 año,Guanajuato,2.936
+Ridge + rezagos,1 año,Guerrero,2.393
+Ridge + rezagos,1 año,Hidalgo,2.715
+Ridge + rezagos,1 año,Jalisco,3.944
+Ridge + rezagos,1 año,Michoacán,3.418
+Ridge + rezagos,1 año,Morelos,3.515
+Ridge + rezagos,1 año,México,1.579
+Ridge + rezagos,1 año,Nayarit,3.837
+Ridge + rezagos,1 año,Nuevo León,3.142
+Ridge + rezagos,1 año,Oaxaca,2.922
+Ridge + rezagos,1 año,Puebla,3.488
+Ridge + rezagos,1 año,Querétaro,2.858
+Ridge + rezagos,1 año,Quintana Roo,4.482
+Ridge + rezagos,1 año,San Luis Potosí,2.667
+Ridge + rezagos,1 año,Sinaloa,3.155
+Ridge + rezagos,1 año,Sonora,3.74
+Ridge + rezagos,1 año,Tabasco,2.599
+Ridge + rezagos,1 año,Tamaulipas,3.292
+Ridge + rezagos,1 año,Tlaxcala,5.438
+Ridge + rezagos,1 año,Veracruz,2.01
+Ridge + rezagos,1 año,Yucatán,3.451
+Ridge + rezagos,1 año,Zacatecas,2.776
+Lasso + rezagos,1 año,Aguascalientes,1.972
+Lasso + rezagos,1 año,Baja California,4.055
+Lasso + rezagos,1 año,Baja California Sur,5.271
+Lasso + rezagos,1 año,Campeche,1.877
+Lasso + rezagos,1 año,Chiapas,1.637
+Lasso + rezagos,1 año,Chihuahua,2.184
+Lasso + rezagos,1 año,Ciudad de México,3.103
+Lasso + rezagos,1 año,Coahuila,1.866
+Lasso + rezagos,1 año,Colima,2.245
+Lasso + rezagos,1 año,Durango,1.905
+Lasso + rezagos,1 año,Guanajuato,1.358
+Lasso + rezagos,1 año,Guerrero,2.197
+Lasso + rezagos,1 año,Hidalgo,0.8
+Lasso + rezagos,1 año,Jalisco,2.818
+Lasso + rezagos,1 año,Michoacán,2.108
+Lasso + rezagos,1 año,Morelos,1.915
+Lasso + rezagos,1 año,México,1.852
+Lasso + rezagos,1 año,Nayarit,3.768
+Lasso + rezagos,1 año,Nuevo León,2.389
+Lasso + rezagos,1 año,Oaxaca,1.79
+Lasso + rezagos,1 año,Puebla,1.706
+Lasso + rezagos,1 año,Querétaro,2.571
+Lasso + rezagos,1 año,Quintana Roo,5.525
+Lasso + rezagos,1 año,San Luis Potosí,1.168
+Lasso + rezagos,1 año,Sinaloa,2.913
+Lasso + rezagos,1 año,Sonora,2.612
+Lasso + rezagos,1 año,Tabasco,2.226
+Lasso + rezagos,1 año,Tamaulipas,1.721
+Lasso + rezagos,1 año,Tlaxcala,3.886
+Lasso + rezagos,1 año,Veracruz,0.955
+Lasso + rezagos,1 año,Yucatán,2.348
+Lasso + rezagos,1 año,Zacatecas,1.87
+Random Forest,1 año,Aguascalientes,2.528
+Random Forest,1 año,Baja California,3.127
+Random Forest,1 año,Baja California Sur,3.964
+Random Forest,1 año,Campeche,1.706
+Random Forest,1 año,Chiapas,2.243
+Random Forest,1 año,Chihuahua,2.221
+Random Forest,1 año,Ciudad de México,1.84
+Random Forest,1 año,Coahuila,2.334
+Random Forest,1 año,Colima,2.182
+Random Forest,1 año,Durango,2.052
+Random Forest,1 año,Guanajuato,1.926
+Random Forest,1 año,Guerrero,2.488
+Random Forest,1 año,Hidalgo,1.697
+Random Forest,1 año,Jalisco,2.936
+Random Forest,1 año,Michoacán,2.771
+Random Forest,1 año,Morelos,2.766
+Random Forest,1 año,México,1.14
+Random Forest,1 año,Nayarit,2.863
+Random Forest,1 año,Nuevo León,2.273
+Random Forest,1 año,Oaxaca,2.494
+Random Forest,1 año,Puebla,2.578
+Random Forest,1 año,Querétaro,2.708
+Random Forest,1 año,Quintana Roo,3.971
+Random Forest,1 año,San Luis Potosí,1.633
+Random Forest,1 año,Sinaloa,2.965
+Random Forest,1 año,Sonora,2.713
+Random Forest,1 año,Tabasco,2.302
+Random Forest,1 año,Tamaulipas,2.466
+Random Forest,1 año,Tlaxcala,4.489
+Random Forest,1 año,Veracruz,1.241
+Random Forest,1 año,Yucatán,2.511
+Random Forest,1 año,Zacatecas,2.109
+Random Forest (cambio),1 año,Aguascalientes,2.662
+Random Forest (cambio),1 año,Baja California,3.239
+Random Forest (cambio),1 año,Baja California Sur,2.945
+Random Forest (cambio),1 año,Campeche,1.884
+Random Forest (cambio),1 año,Chiapas,2.039
+Random Forest (cambio),1 año,Chihuahua,2.447
+Random Forest (cambio),1 año,Ciudad de México,1.799
+Random Forest (cambio),1 año,Coahuila,2.352
+Random Forest (cambio),1 año,Colima,2.29
+Random Forest (cambio),1 año,Durango,2.29
+Random Forest (cambio),1 año,Guanajuato,1.924
+Random Forest (cambio),1 año,Guerrero,2.458
+Random Forest (cambio),1 año,Hidalgo,1.88
+Random Forest (cambio),1 año,Jalisco,3.01
+Random Forest (cambio),1 año,Michoacán,2.718
+Random Forest (cambio),1 año,Morelos,3.097
+Random Forest (cambio),1 año,México,1.256
+Random Forest (cambio),1 año,Nayarit,2.807
+Random Forest (cambio),1 año,Nuevo León,2.521
+Random Forest (cambio),1 año,Oaxaca,2.241
+Random Forest (cambio),1 año,Puebla,2.654
+Random Forest (cambio),1 año,Querétaro,2.824
+Random Forest (cambio),1 año,Quintana Roo,3.352
+Random Forest (cambio),1 año,San Luis Potosí,1.803
+Random Forest (cambio),1 año,Sinaloa,3.186
+Random Forest (cambio),1 año,Sonora,2.915
+Random Forest (cambio),1 año,Tabasco,2.236
+Random Forest (cambio),1 año,Tamaulipas,2.425
+Random Forest (cambio),1 año,Tlaxcala,5.939
+Random Forest (cambio),1 año,Veracruz,1.293
+Random Forest (cambio),1 año,Yucatán,2.584
+Random Forest (cambio),1 año,Zacatecas,2.654
+HistGB,1 año,Aguascalientes,2.029
+HistGB,1 año,Baja California,3.35
+HistGB,1 año,Baja California Sur,4.827
+HistGB,1 año,Campeche,2.238
+HistGB,1 año,Chiapas,2.278
+HistGB,1 año,Chihuahua,2.215
+HistGB,1 año,Ciudad de México,1.917
+HistGB,1 año,Coahuila,1.893
+HistGB,1 año,Colima,1.753
+HistGB,1 año,Durango,1.892
+HistGB,1 año,Guanajuato,1.759
+HistGB,1 año,Guerrero,2.134
+HistGB,1 año,Hidalgo,1.67
+HistGB,1 año,Jalisco,2.636
+HistGB,1 año,Michoacán,2.945
+HistGB,1 año,Morelos,3.145
+HistGB,1 año,México,1.32
+HistGB,1 año,Nayarit,3.111
+HistGB,1 año,Nuevo León,1.834
+HistGB,1 año,Oaxaca,2.092
+HistGB,1 año,Puebla,2.794
+HistGB,1 año,Querétaro,2.38
+HistGB,1 año,Quintana Roo,3.519
+HistGB,1 año,San Luis Potosí,1.701
+HistGB,1 año,Sinaloa,2.243
+HistGB,1 año,Sonora,2.551
+HistGB,1 año,Tabasco,2.003
+HistGB,1 año,Tamaulipas,2.142
+HistGB,1 año,Tlaxcala,4.042
+HistGB,1 año,Veracruz,1.231
+HistGB,1 año,Yucatán,2.056
+HistGB,1 año,Zacatecas,2.006
+HistGB (cambio),1 año,Aguascalientes,2.109
+HistGB (cambio),1 año,Baja California,2.325
+HistGB (cambio),1 año,Baja California Sur,2.834
+HistGB (cambio),1 año,Campeche,1.988
+HistGB (cambio),1 año,Chiapas,2.071
+HistGB (cambio),1 año,Chihuahua,2.274
+HistGB (cambio),1 año,Ciudad de México,2.268
+HistGB (cambio),1 año,Coahuila,2.205
+HistGB (cambio),1 año,Colima,1.877
+HistGB (cambio),1 año,Durango,2.104
+HistGB (cambio),1 año,Guanajuato,1.848
+HistGB (cambio),1 año,Guerrero,2.677
+HistGB (cambio),1 año,Hidalgo,1.803
+HistGB (cambio),1 año,Jalisco,2.649
+HistGB (cambio),1 año,Michoacán,3.649
+HistGB (cambio),1 año,Morelos,3.45
+HistGB (cambio),1 año,México,1.345
+HistGB (cambio),1 año,Nayarit,2.454
+HistGB (cambio),1 año,Nuevo León,1.798
+HistGB (cambio),1 año,Oaxaca,2.38
+HistGB (cambio),1 año,Puebla,2.815
+HistGB (cambio),1 año,Querétaro,2.895
+HistGB (cambio),1 año,Quintana Roo,2.539
+HistGB (cambio),1 año,San Luis Potosí,1.982
+HistGB (cambio),1 año,Sinaloa,2.806
+HistGB (cambio),1 año,Sonora,2.291
+HistGB (cambio),1 año,Tabasco,1.832
+HistGB (cambio),1 año,Tamaulipas,2.16
+HistGB (cambio),1 año,Tlaxcala,5.592
+HistGB (cambio),1 año,Veracruz,1.442
+HistGB (cambio),1 año,Yucatán,2.219
+HistGB (cambio),1 año,Zacatecas,2.456

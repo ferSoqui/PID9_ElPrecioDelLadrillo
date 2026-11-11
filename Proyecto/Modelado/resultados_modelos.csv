@@ -3,7 +3,19 @@ Ingenuo,1 trimestre,0.864,1.18,0.794
 Media,1 trimestre,2.516,3.124,-0.442
 Ridge,1 trimestre,0.757,1.038,0.841
 Lasso,1 trimestre,0.636,0.886,0.884
+Ridge + rezagos,1 trimestre,0.673,0.921,0.875
+Lasso + rezagos,1 trimestre,0.583,0.816,0.902
+Random Forest,1 trimestre,0.67,0.945,0.868
+Random Forest (cambio),1 trimestre,0.665,0.94,0.869
+HistGB,1 trimestre,0.749,0.997,0.853
+HistGB (cambio),1 trimestre,0.765,1.008,0.85
 Ingenuo,1 año,2.522,3.286,-0.574
 Media,1 año,2.394,2.998,-0.31
 Ridge,1 año,3.05,3.667,-0.96
 Lasso,1 año,2.394,2.998,-0.31
+Ridge + rezagos,1 año,3.14,3.764,-1.065
+Lasso + rezagos,1 año,2.394,2.998,-0.31
+Random Forest,1 año,2.476,3.006,-0.317
+Random Forest (cambio),1 año,2.554,3.191,-0.484
+HistGB,1 año,2.366,2.909,-0.234
+HistGB (cambio),1 año,2.411,3.053,-0.358
