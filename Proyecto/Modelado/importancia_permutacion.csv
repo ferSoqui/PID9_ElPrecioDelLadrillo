@@ -1,0 +1,31 @@
+modelo,horizonte,variable,aumento_MAE,desv
+Lasso + rezagos,1 trimestre,var_anual,1.0559,0.0387
+Lasso + rezagos,1 trimestre,crec_trim,0.6424,0.0319
+Lasso + rezagos,1 trimestre,crec_trim_lag1,0.1314,0.0119
+Lasso + rezagos,1 trimestre,crec_trim_lag2,0.0415,0.0068
+Lasso + rezagos,1 trimestre,inflacion_anual_pct,0.0033,0.0019
+Lasso + rezagos,1 trimestre,tasa_fondeo,0.0001,0.0001
+Lasso + rezagos,1 trimestre,var_anual_lag1,0.0,0.0
+Lasso + rezagos,1 trimestre,factor_nacional,0.0,0.0
+Lasso + rezagos,1 trimestre,var_anual_lag4,0.0,0.0
+Lasso + rezagos,1 trimestre,crec_trim_lag3,0.0,0.0
+Lasso + rezagos,1 trimestre,creditos_por_mil,0.0,0.0
+Lasso + rezagos,1 trimestre,oferta_por_mil,0.0,0.0
+Lasso + rezagos,1 trimestre,credito_promedio_real,0.0,0.0
+Lasso + rezagos,1 trimestre,oferta_metodologia_2019,0.0,0.0
+Lasso + rezagos,1 trimestre,tasa_cetes91,0.0,0.0
+HistGB,1 año,tasa_fondeo,0.1934,0.0395
+HistGB,1 año,oferta_por_mil,0.131,0.0188
+HistGB,1 año,crec_trim,0.073,0.0218
+HistGB,1 año,credito_promedio_real,0.042,0.0127
+HistGB,1 año,factor_nacional,0.0236,0.0044
+HistGB,1 año,inflacion_anual_pct,0.0109,0.0175
+HistGB,1 año,crec_trim_lag3,0.0099,0.0044
+HistGB,1 año,var_anual,0.0076,0.0159
+HistGB,1 año,crec_trim_lag2,0.0018,0.004
+HistGB,1 año,var_anual_lag4,0.0013,0.0096
+HistGB,1 año,crec_trim_lag1,0.0001,0.0038
+HistGB,1 año,tasa_cetes91,0.0,0.0002
+HistGB,1 año,oferta_metodologia_2019,0.0,0.0
+HistGB,1 año,var_anual_lag1,-0.0014,0.0095
+HistGB,1 año,creditos_por_mil,-0.0138,0.0042

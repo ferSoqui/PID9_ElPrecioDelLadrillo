@@ -1,0 +1,21 @@
+horizonte,modelo,MAE_mean,MAE_std,RMSE_mean,RMSE_std,tiempo_s_mean,tiempo_s_std
+1 trimestre,Ingenuo,0.975,0.026,1.191,0.032,0.0,0.0
+1 trimestre,Media,2.411,0.728,3.076,0.805,0.0,0.0
+1 trimestre,Ridge,0.777,0.073,0.969,0.123,0.17,0.044
+1 trimestre,Lasso,0.717,0.07,0.89,0.099,0.136,0.044
+1 trimestre,Ridge + rezagos,1.006,0.461,1.191,0.461,0.184,0.054
+1 trimestre,Lasso + rezagos,0.724,0.059,0.879,0.073,0.146,0.043
+1 trimestre,Random Forest,0.889,0.063,1.177,0.012,0.64,0.099
+1 trimestre,Random Forest (cambio),0.85,0.054,1.052,0.058,0.668,0.083
+1 trimestre,HistGB,0.825,0.119,1.083,0.116,0.133,0.046
+1 trimestre,HistGB (cambio),0.831,0.036,1.028,0.065,0.135,0.028
+1 año,Ingenuo,2.284,0.582,2.822,0.666,0.0,0.0
+1 año,Media,2.366,0.703,3.027,0.783,0.0,0.0
+1 año,Ridge,2.445,0.334,2.979,0.251,0.196,0.069
+1 año,Lasso,2.903,0.567,3.534,0.469,0.139,0.044
+1 año,Ridge + rezagos,2.426,0.458,2.926,0.407,0.171,0.053
+1 año,Lasso + rezagos,2.618,0.445,3.26,0.491,0.169,0.024
+1 año,Random Forest,2.438,0.543,2.907,0.538,0.588,0.017
+1 año,Random Forest (cambio),2.241,0.466,2.685,0.542,0.621,0.104
+1 año,HistGB,2.321,0.573,2.809,0.549,0.156,0.032
+1 año,HistGB (cambio),2.076,0.085,2.576,0.104,0.166,0.017

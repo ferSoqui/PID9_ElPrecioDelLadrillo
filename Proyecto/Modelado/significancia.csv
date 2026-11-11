@@ -1,0 +1,7 @@
+horizonte,modelo,contra,dif_MAE,DM,p_DM,trimestres,Wilcoxon_W,p_Wilcoxon,estados,estados_gana
+1 trimestre,Lasso + rezagos,Ingenuo,-0.2813,-4.9327,0.0003,13,3.0,0.0,32,30
+1 trimestre,Lasso + rezagos,Lasso,-0.053,-3.919,0.002,13,17.0,0.0,32,30
+1 trimestre,Lasso + rezagos,Random Forest (cambio),-0.082,-1.6557,0.1237,13,130.0,0.0111,32,21
+1 año,HistGB,Media,-0.0283,-0.0535,0.9581,14,257.0,0.9046,32,16
+1 año,HistGB (cambio),Media,0.0165,0.0275,0.9785,14,224.0,0.4653,32,13
+1 año,HistGB,Ingenuo,-0.1562,-0.4769,0.6413,14,248.0,0.775,32,12

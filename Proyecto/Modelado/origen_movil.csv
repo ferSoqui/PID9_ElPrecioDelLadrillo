@@ -1,0 +1,21 @@
+horizonte,modelo,prueba_2021,prueba_2022,prueba_2023,promedio
+1 trimestre,Ingenuo,0.98,0.999,0.947,0.975
+1 trimestre,Media,1.745,2.3,3.188,2.411
+1 trimestre,Ridge,0.744,0.727,0.861,0.777
+1 trimestre,Lasso,0.672,0.682,0.798,0.717
+1 trimestre,Ridge + rezagos,1.538,0.76,0.721,1.006
+1 trimestre,Lasso + rezagos,0.788,0.672,0.712,0.724
+1 trimestre,Random Forest,0.953,0.828,0.885,0.889
+1 trimestre,Random Forest (cambio),0.912,0.826,0.811,0.85
+1 trimestre,HistGB,0.861,0.693,0.922,0.825
+1 trimestre,HistGB (cambio),0.801,0.819,0.871,0.831
+1 año,Ingenuo,2.488,1.628,2.737,2.284
+1 año,Media,1.722,2.261,3.116,2.366
+1 año,Ridge,2.37,2.155,2.81,2.445
+1 año,Lasso,3.332,2.261,3.116,2.903
+1 año,Ridge + rezagos,2.305,2.041,2.933,2.426
+1 año,Lasso + rezagos,2.477,2.261,3.116,2.618
+1 año,Random Forest,2.752,1.81,2.75,2.438
+1 año,Random Forest (cambio),2.426,1.712,2.587,2.241
+1 año,HistGB,2.971,1.892,2.098,2.321
+1 año,HistGB (cambio),2.134,2.117,1.979,2.076
